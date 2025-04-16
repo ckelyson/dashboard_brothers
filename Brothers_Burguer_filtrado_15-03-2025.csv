@@ -1,0 +1,244 @@
+Pedido,Itens,Valor,Data,Cliente,Status
+18237,18237,76.97,2025-04-08 21:51:43,Brothers Burguer,Em Produção
+18236,18236,62.0,2025-04-08 20:59:07,Adelmo,Em Produção
+18235,18235,32.99,2025-04-08 20:51:24,Brothers Burguer,Em Produção
+18234,18234,26.99,2025-04-08 20:49:41,Brothers Burguer,Em Produção
+18233,18233,41.99,2025-04-08 20:47:44,Brothers Burguer,Em Produção
+18232,18232,58.9,2025-04-08 20:46:15,Telao,Em Produção
+18231,18231,28.99,2025-04-08 18:43:41,Francilma Alves de Almeida,Em Produção
+18230,18230,26.99,2025-04-07 21:15:50,Brothers Burguer,Em Produção
+18229,18229,27.98,2025-04-07 21:13:08,Brothers Burguer,Em Produção
+18228,18228,57.96,2025-04-07 20:22:51,Brothers Burguer,Em Produção
+18227,18227,47.98,2025-04-07 20:07:22,Telao,Em Produção
+18226,18226,16.99,2025-04-07 19:59:37,Jennifer Mayara,Saiu para entrega
+18225,18225,135.95,2025-04-07 19:47:42,Brothers Burguer,Em Produção
+18224,18224,59.99,2025-04-07 19:30:43,Brothers Burguer,Em Produção
+18223,18223,58.99,2025-04-07 19:27:09,Brothers Burguer,Cancelado
+18222,18222,32.9,2025-04-07 19:10:05,Brothers Burguer,Em Produção
+18221,18221,132.96,2025-04-06 22:05:51,Brothers Burguer,Em Produção
+18220,18220,67.98,2025-04-06 22:05:34,Telao,Em Produção
+18219,18219,32.99,2025-04-06 22:02:45,Telao,Em Produção
+18218,18218,74.97,2025-04-06 21:59:58,Brothers Burguer,Cancelado
+18217,18217,72.0,2025-04-06 21:47:39,Brothers Burguer,Em Produção
+18216,18216,49.0,2025-04-06 21:27:26,Juliana Silva De Lima,Em Produção
+18215,18215,79.97,2025-04-06 21:24:18,Brothers Burguer,Em Produção
+18214,18214,63.99,2025-04-06 21:12:41,Brothers Burguer,Em Produção
+18213,18213,195.92,2025-04-06 21:07:10,Brothers Burguer,Em Produção
+18212,18212,14.99,2025-04-06 20:56:32,Enauro,Em Produção
+18211,18211,43.97,2025-04-06 20:32:45,Brothers Burguer,Em Produção
+18210,18210,63.99,2025-04-06 20:31:19,Brothers Burguer,Em Produção
+18209,18209,42.99,2025-04-06 20:22:41,Brothers Burguer,Em Produção
+18208,18208,65.99,2025-04-06 20:20:47,Enauro,Em Produção
+18207,18207,59.98,2025-04-06 20:14:36,Brothers Burguer,Em Produção
+18206,18206,51.98,2025-04-06 20:12:57,Enauro,Em Produção
+18205,18205,8.99,2025-04-06 20:10:27,Enauro,Em Produção
+18204,18204,28.99,2025-04-06 19:58:20,Brothers Burguer,Em Produção
+18203,18203,77.98,2025-04-06 19:52:32,Brothers Burguer,Em Produção
+18202,18202,63.99,2025-04-06 19:47:21,Telao,Em Produção
+18201,18201,65.99,2025-04-06 19:40:41,Enauro,Em Produção
+18200,18200,75.98,2025-04-06 19:36:15,Brothers Burguer,Em Produção
+18199,18199,63.99,2025-04-06 19:29:39,Brothers Burguer,Em Produção
+18198,18198,73.99,2025-04-06 19:19:28,Telao,Em Produção
+18197,18197,49.99,2025-04-06 19:05:39,Telao,Em Produção
+18196,18196,49.0,2025-04-06 18:58:05,Brothers Burguer,Em Produção
+18195,18195,65.89,2025-04-06 18:43:40,Telao,Em Produção
+18194,18194,33.99,2025-04-06 00:02:47,Brothers Burguer,Em Produção
+18193,18193,38.99,2025-04-05 23:35:48,Brothers Burguer,Em Produção
+18192,18192,40.99,2025-04-05 23:31:44,Brothers Burguer,Em Produção
+18191,18191,59.99,2025-04-05 23:14:36,Telao,Entregue
+18190,18190,71.97,2025-04-05 21:17:47,Brothers Burguer,Entregue
+18189,18189,68.99,2025-04-05 20:55:06,Telao,Entregue
+18188,18188,58.99,2025-04-05 20:54:09,Brothers Burguer,Entregue
+18187,18187,23.99,2025-04-05 20:51:48,Telao,Entregue
+18186,18186,28.99,2025-04-05 20:50:45,Telao,Entregue
+18185,18185,14.99,2025-04-05 20:47:36,Telao,Entregue
+18184,18184,33.99,2025-04-05 20:19:13,João Victor Rodrigues Guimarães,Em Produção
+18183,18183,36.99,2025-04-05 20:17:24,Brothers Burguer,Entregue
+18182,18182,65.8,2025-04-05 20:13:14,Brothers Burguer,Em Produção
+18181,18181,61.98,2025-04-05 19:58:22,Brothers Burguer,Em Produção
+18180,18180,67.98,2025-04-05 19:40:28,Brothers Burguer,Em Produção
+18179,18179,84.97,2025-04-04 20:53:27,Rosely,Entregue
+18178,18178,94.96,2025-04-04 20:42:13,Brothers Burguer,Em Produção
+18177,18177,14.99,2025-04-04 19:22:09,Brothers Burguer,Em Produção
+18176,18176,84.98,2025-04-04 18:42:46,Aline samara,Em Produção
+18175,18175,64.99,2025-04-04 17:21:16,Renata de Albuquerque Torres,Saiu para entrega
+18174,18174,63.99,2025-04-03 20:45:36,Telao,Em Produção
+18173,18173,48.98,2025-04-02 22:35:22,Brothers Burguer,Em Produção
+18172,18172,63.99,2025-04-02 20:02:48,Telao,Em Produção
+18171,18171,52.99,2025-04-02 19:46:06,Brothers Burguer,Em Produção
+18170,18170,25.0,2025-04-02 19:09:23,Brothers Burguer,Em Produção
+18169,18169,97.8,2025-04-01 21:25:02,Brothers Burguer,Em Produção
+18168,18168,25.99,2025-04-01 21:14:50,Telao,Em Produção
+18167,18167,34.98,2025-04-01 20:10:58,Tarcisio Moura Brothers Burguer,Em Produção
+18166,18166,89.98,2025-04-01 19:31:30,Brothers Burguer,Em Produção
+18165,18165,74.97,2025-04-01 18:18:46,Brothers Burguer,Em Produção
+18164,18164,84.97,2025-04-01 18:16:07,Brothers Burguer,Em Produção
+18163,18163,18.99,2025-04-01 16:32:08,Brothers Burguer,Em Produção
+18162,18162,32.98,2025-03-31 20:40:56,Dalila Freitas,Saiu para entrega
+18161,18161,63.99,2025-03-31 19:44:21,Brothers Burguer,Em Produção
+18160,18160,28.99,2025-03-31 18:59:04,Laelson santos freitas,Saiu para entrega
+18159,18159,89.95,2025-03-30 22:47:57,Brothers Burguer,Em Produção
+18158,18158,47.98,2025-03-30 22:35:47,Alyne Simões,Saiu para entrega
+18157,18157,67.98,2025-03-30 20:58:19,Brothers Burguer,Em Produção
+18156,18156,77.99,2025-03-30 20:46:29,Brothers Burguer,Em Produção
+18155,18155,56.99,2025-03-30 20:40:05,Brothers Burguer,Em Produção
+18154,18154,67.99,2025-03-30 20:38:01,Brothers Burguer,Em Produção
+18153,18153,63.99,2025-03-30 20:36:45,Brothers Burguer,Em Produção
+18152,18152,32.9,2025-03-30 20:34:05,Brothers Burguer,Em Produção
+18151,18151,63.99,2025-03-30 20:26:11,Brothers Burguer,Em Produção
+18150,18150,22.99,2025-03-30 20:19:29,Brothers Burguer,Em Produção
+18149,18149,63.99,2025-03-30 20:03:57,Brothers Burguer,Em Produção
+18148,18148,63.99,2025-03-30 19:48:30,Brothers Burguer,Em Produção
+18147,18147,66.98,2025-03-30 19:45:43,Brothers Burguer,Em Produção
+18146,18146,64.99,2025-03-30 19:41:29,Brothers Burguer,Em Produção
+18145,18145,38.9,2025-03-30 19:39:55,Brothers Burguer,Cancelado
+18144,18144,145.95,2025-03-30 19:36:12,Brothers Burguer,Em Produção
+18143,18143,78.98,2025-03-30 19:29:20,Brothers Burguer,Em Produção
+18142,18142,33.99,2025-03-30 19:23:53,Brothers Burguer,Em Produção
+18141,18141,33.99,2025-03-30 19:21:07,Rosely,Em Produção
+18140,18140,76.99,2025-03-30 19:02:06,Greicilane,Em Produção
+18139,18139,71.99,2025-03-30 18:54:14,Givanice,Cancelado
+18138,18138,66.98,2025-03-30 18:44:48,Brothers Burguer,Em Produção
+18137,18137,43.99,2025-03-30 18:38:28,Bruno França Santana,Em Produção
+18136,18136,63.99,2025-03-30 18:24:12,Brothers Burguer,Em Produção
+18135,18135,55.99,2025-03-30 17:53:19,Lucielmo,Saiu para entrega
+18134,18134,127.98,2025-03-29 23:15:40,Brothers Burguer,Em Produção
+18133,18133,49.98,2025-03-29 23:12:59,Brothers Burguer,Em Produção
+18132,18132,33.99,2025-03-29 22:22:22,Brothers Burguer,Em Produção
+18131,18131,22.0,2025-03-29 22:16:49,Brothers Burguer,Em Produção
+18130,18130,35.9,2025-03-29 20:55:39,Maria Clara,Disponível para retirada
+18129,18129,28.99,2025-03-29 20:35:30,Joao pedro,Em Produção
+18128,18128,64.99,2025-03-29 20:32:08,Brothers Burguer,Em Produção
+18127,18127,32.99,2025-03-29 20:31:47,Brothers Burguer,Em Produção
+18126,18126,32.99,2025-03-29 20:29:00,Brothers Burguer,Em Produção
+18125,18125,32.99,2025-03-29 20:22:51,Brothers Burguer,Em Produção
+18124,18124,32.99,2025-03-29 20:21:53,Brothers Burguer,Em Produção
+18123,18123,18.0,2025-03-29 20:17:35,Brothers Burguer,Em Produção
+18122,18122,111.97,2025-03-29 20:12:09,Brothers Burguer,Em Produção
+18121,18121,38.99,2025-03-29 20:10:32,Brothers Burguer,Em Produção
+18120,18120,31.99,2025-03-29 20:09:22,Brothers Burguer,Em Produção
+18119,18119,31.99,2025-03-29 20:08:05,Brothers Burguer,Em Produção
+18118,18118,31.99,2025-03-29 20:06:55,Brothers Burguer,Em Produção
+18117,18117,31.99,2025-03-29 20:06:05,Brothers Burguer,Em Produção
+18116,18116,68.99,2025-03-29 19:50:18,Paulo Gustavo Brothers Burguer,Em Produção
+18115,18115,34.99,2025-03-28 23:12:57,Maria Eduarda,Em Produção
+18114,18114,65.99,2025-03-28 22:09:45,Brothers Burguer,Em Produção
+18113,18113,69.96,2025-03-28 21:55:06,Maria José de lima,Saiu para entrega
+18112,18112,63.99,2025-03-28 21:22:59,Brothers Burguer,Em Produção
+18111,18111,136.98,2025-03-28 20:50:04,Brothers Burguer,Em Produção
+18110,18110,40.98,2025-03-28 20:31:07,Brothers Burguer,Em Produção
+18109,18109,26.99,2025-03-28 20:24:43,Brothers Burguer,Em Produção
+18108,18108,47.97,2025-03-28 19:59:35,Brothers Burguer,Em Produção
+18107,18107,50.98,2025-03-28 19:29:10,Brothers Burguer,Em Produção
+18106,18106,56.99,2025-03-28 19:07:05,Brothers Burguer,Em Produção
+18105,18105,140.96,2025-03-28 18:15:25,Brothers Burguer,Em Produção
+18104,18104,36.99,2025-03-28 17:44:38,Cristiane,Disponível para retirada
+18103,18103,49.99,2025-03-27 22:11:47,Brothers Burguer,Em Produção
+18102,18102,89.98,2025-03-27 21:52:02,Brothers Burguer,Em Produção
+18101,18101,33.99,2025-03-27 20:28:03,João Victor Rodrigues Guimarães,Em Produção
+18100,18100,99.95,2025-03-27 19:52:37,Brothers Burguer,Em Produção
+18099,18099,59.99,2025-03-27 19:49:34,Brothers Burguer,Em Produção
+18098,18098,62.97,2025-03-27 19:32:06,Brothers Burguer,Em Produção
+18097,18097,34.0,2025-03-27 19:31:02,Aline samara,Em Produção
+18096,18096,38.99,2025-03-27 18:45:55,Brothers Burguer,Em Produção
+18095,18095,22.0,2025-03-27 18:38:31,Brothers Burguer,Cancelado
+18094,18094,25.99,2025-03-27 18:34:56,Francilma Alves de Almeida,Em Produção
+18093,18093,33.99,2025-03-26 21:52:46,Brothers Burguer,Em Produção
+18092,18092,78.98,2025-03-26 21:21:50,Brothers Burguer,Em Produção
+18091,18091,36.99,2025-03-26 21:20:15,Brothers Burguer,Em Produção
+18090,18090,32.9,2025-03-26 21:16:36,Brothers Burguer,Em Produção
+18089,18089,33.99,2025-03-26 20:57:00,Brothers Burguer,Em Produção
+18088,18088,31.0,2025-03-26 20:45:13,Brothers Burguer,Em Produção
+18087,18087,33.99,2025-03-26 20:10:51,Brothers Burguer,Em Produção
+18086,18086,38.99,2025-03-26 19:52:02,Brothers Burguer,Em Produção
+18085,18085,85.87,2025-03-26 19:19:19,Brothers Burguer,Em Produção
+18084,18084,85.97,2025-03-26 18:40:25,Brothers Burguer,Entregue
+18083,18083,67.98,2025-03-25 21:36:32,Diego,Entregue
+18082,18082,64.99,2025-03-25 20:12:18,Brothers Burguer,Entregue
+18081,18081,36.99,2025-03-25 19:06:47,Brothers Burguer,Entregue
+18080,18080,22.0,2025-03-25 18:14:01,Brothers Burguer,Entregue
+18079,18079,23.99,2025-03-24 23:36:30,Brothers Burguer,Em Produção
+18078,18078,117.97,2025-03-24 23:35:48,Brothers Burguer,Em Produção
+18077,18077,50.98,2025-03-24 22:29:01,Brothers Burguer,Em Produção
+18076,18076,105.95,2025-03-24 21:17:34,Brothers Burguer,Em Produção
+18075,18075,75.98,2025-03-24 21:00:23,Brothers Burguer,Em Produção
+18074,18074,54.0,2025-03-24 20:22:12,Brothers Burguer,Em Produção
+18073,18073,40.98,2025-03-24 20:09:10,Brothers Burguer,Em Produção
+18072,18072,18.99,2025-03-23 23:52:24,Paulo Gustavo Brothers Burguer,Cancelado
+18071,18071,63.99,2025-03-23 23:05:31,Brothers Burguer,Em Produção
+18070,18070,89.96,2025-03-23 21:44:53,Brothers Burguer,Em Produção
+18069,18069,72.98,2025-03-23 21:36:00,Brothers Burguer,Em Produção
+18068,18068,61.89,2025-03-23 21:32:12,Brothers Burguer,Em Produção
+18067,18067,59.99,2025-03-23 21:18:03,Brothers Burguer,Em Produção
+18066,18066,62.99,2025-03-23 20:52:57,Brothers Burguer,Em Produção
+18065,18065,112.94,2025-03-23 20:50:21,Brothers Burguer,Em Produção
+18064,18064,83.97,2025-03-23 20:46:44,Brothers Burguer,Em Produção
+18063,18063,120.98,2025-03-23 20:42:06,Brothers Burguer,Em Produção
+18062,18062,19.99,2025-03-23 20:41:52,Brothers Burguer,Em Produção
+18061,18061,158.96,2025-03-23 20:26:59,Brothers Burguer,Em Produção
+18060,18060,64.99,2025-03-23 19:50:25,Brothers Burguer,Em Produção
+18059,18059,71.0,2025-03-23 19:43:27,Brothers Burguer,Cancelado
+18058,18058,64.97,2025-03-23 19:41:36,Brothers Burguer,Em Produção
+18057,18057,62.98,2025-03-23 19:37:07,Brothers Burguer,Em Produção
+18056,18056,121.94,2025-03-23 18:36:06,Brothers Burguer,Em Produção
+18055,18055,33.99,2025-03-22 22:43:09,Brothers Burguer,Em Produção
+18054,18054,24.99,2025-03-22 21:15:01,Brothers Burguer,Em Produção
+18053,18053,60.99,2025-03-22 21:07:10,Brothers Burguer,Em Produção
+18052,18052,63.99,2025-03-22 20:46:50,Brothers Burguer,Entregue
+18051,18051,51.98,2025-03-22 20:31:03,Brothers Burguer,Em Produção
+18050,18050,101.98,2025-03-22 20:11:07,Brothers Burguer,Em Produção
+18049,18049,37.9,2025-03-22 20:09:56,Joaozinho,Entregue
+18048,18048,33.99,2025-03-22 20:08:11,Brothers Burguer,Entregue
+18047,18047,66.99,2025-03-22 20:06:55,Brothers Burguer,Em Produção
+18046,18046,88.98,2025-03-22 19:32:05,Brothers Burguer,Em Produção
+18045,18045,36.99,2025-03-21 22:58:39,Brothers Burguer,Em Produção
+18044,18044,143.94,2025-03-21 22:46:08,Vinícius,Saiu para entrega
+18043,18043,31.99,2025-03-21 22:19:28,Brothers Burguer,Em Produção
+18042,18042,71.98,2025-03-21 22:01:48,Brothers Burguer,Em Produção
+18041,18041,68.96,2025-03-21 21:52:50,Brothers Burguer,Em Produção
+18040,18040,63.99,2025-03-21 17:31:59,Rejane Sales,Disponível para retirada
+18039,18039,26.99,2025-03-20 19:27:46,Laryssa Fernanda Alves,Entregue
+18038,18038,67.98,2025-03-20 18:20:53,Diego,Disponível para retirada
+18037,18037,32.99,2025-03-19 23:13:47,Brothers Burguer,Entregue
+18036,18036,27.0,2025-03-19 22:47:10,Beatriz Figueiredo,Saiu para entrega
+18035,18035,136.95,2025-03-19 19:40:21,Brothers Burguer,Em Produção
+18034,18034,67.98,2025-03-19 19:33:52,Brothers Burguer,Em Produção
+18033,18033,92.89,2025-03-19 19:24:02,Patricci Manzi,Entregue
+18032,18032,32.99,2025-03-19 18:49:59,Brothers Burguer,Entregue
+18031,18031,47.98,2025-03-18 21:48:49,Neto,Disponível para retirada
+18030,18030,32.9,2025-03-18 19:39:54,Brothers Burguer,Em Produção
+18029,18029,32.9,2025-03-18 19:17:10,Brothers Burguer,Em Produção
+18028,18028,78.98,2025-03-18 19:15:00,Brothers Burguer,Em Produção
+18027,18027,53.98,2025-03-18 18:38:26,Brothers Burguer,Em Produção
+18026,18026,23.99,2025-03-18 18:26:00,Brothers Burguer,Em Produção
+18025,18025,65.99,2025-03-18 18:04:18,Brothers Burguer,Em Produção
+18024,18024,28.99,2025-03-17 22:41:55,Paulo Gustavo Brothers Burguer,Em Produção
+18023,18023,38.98,2025-03-17 20:27:46,Brothers Burguer,Em Produção
+18022,18022,108.93,2025-03-16 21:58:18,Brothers Burguer,Em Produção
+18021,18021,46.99,2025-03-16 21:28:30,Diego,Saiu para entrega
+18020,18020,180.86,2025-03-16 21:05:49,Brothers Burguer,Em Produção
+18019,18019,77.96,2025-03-16 20:54:01,Brothers Burguer,Em Produção
+18018,18018,90.96,2025-03-16 20:39:47,Brothers Burguer,Em Produção
+18017,18017,58.99,2025-03-16 20:35:46,Lucas Tavares,Em Produção
+18016,18016,30.99,2025-03-16 20:32:04,Bartolomeu Novaes,Em Produção
+18015,18015,65.97,2025-03-16 20:27:33,Brothers Burguer,Em Produção
+18014,18014,38.9,2025-03-16 20:18:09,Edva,Em Produção
+18013,18013,147.97,2025-03-16 20:17:56,Brothers Burguer,Em Produção
+18012,18012,59.99,2025-03-16 20:13:44,Brothers Burguer,Em Produção
+18011,18011,32.98,2025-03-16 20:02:50,Almir Campos,Em Produção
+18010,18010,86.99,2025-03-16 20:01:00,Soraya Campos,Em Produção
+18009,18009,100.96,2025-03-16 19:56:01,Brothers Burguer,Em Produção
+18008,18008,173.96,2025-03-16 19:12:42,Brothers Burguer,Em Produção
+18007,18007,49.99,2025-03-16 18:50:03,Brothers Burguer,Em Produção
+18006,18006,37.99,2025-03-16 17:06:00,Kallyne Acsa Rabelo Pinheiro,Em Produção
+18005,18005,33.99,2025-03-15 23:49:19,Brothers Burguer,Em Produção
+18004,18004,60.97,2025-03-15 22:37:21,Brothers Burguer,Em Produção
+18003,18003,69.99,2025-03-15 22:20:20,Brothers Burguer,Em Produção
+18002,18002,107.96,2025-03-15 21:52:51,Brothers Burguer,Em Produção
+18001,18001,28.99,2025-03-15 21:27:25,Joao pedro,Saiu para entrega
+18000,18000,19.98,2025-03-15 21:24:43,Brothers Burguer,Em Produção
+17999,17999,69.9,2025-03-15 20:29:28,Maria Clara,Saiu para entrega
+17998,17998,59.97,2025-03-15 19:49:51,Brothers Burguer,Em Produção
+17997,17997,63.99,2025-03-15 19:23:37,Bruno França Santana,Disponível para retirada
+17996,17996,145.94,2025-03-15 18:52:37,Brothers Burguer,Em Produção
+17995,17995,73.97,2025-03-15 18:09:32,Brothers Burguer,Em Produção
